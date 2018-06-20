@@ -1,0 +1,16 @@
+{
+  "name": "@robin40/dispatch",
+  "version": "1.0.1",
+  "description": "Multiple dispatch with pattern matching",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "multiple",
+    "dispatch",
+    "multimethods"
+  ],
+  "author": "Robinson Castro F. <r.a.c.f.28@gmail.com>",
+  "license": "ISC"
+}
